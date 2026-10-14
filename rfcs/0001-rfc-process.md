@@ -19,7 +19,7 @@ N/A
 ## Motivation
 [motivation]: #motivation
 
-While this organization is technically nowhere near large enough to require an RFC forum, I do think that it will still grow quite useful. We're working in a polyrepo environment, and so storing organization wide feature ideas is a noticeable problem. Creating unlinked, separate GitHub issues across all the repos is a hustle which could be streamlined by a process like this. This repository will contain strictly defined descriptions of breaking changes, and thus hopefully allowing us to track the process of theirs development more easily.
+While this organization is technically nowhere near large enough to require an RFC forum, I do think that it will still grow quite useful. We're working in a polyrepo environment, and so storing organization wide feature ideas is a noticeable problem. Creating unlinked, separate GitHub issues across all the repos is a hustle which could be streamlined by a process like this. This repository will contain strictly defined descriptions of breaking changes, and thus hopefully allow us to track the process of theirs development more easily.
 
 ## Alternatives
 [alternatives]: #alternatives
