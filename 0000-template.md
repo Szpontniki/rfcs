@@ -1,9 +1,9 @@
 ---
-feature: (unique ident, e.g.: my_awesome_feature)
-start-date: (today's date in YYYY-MM-DD format, e.g.: 2026-10-14)
-author: (name of the main author)
-co-authors: (name(s) of supporting authors, can be N/A)
-related-prs: (self-referencing link to the PR, e.g.: "[szpontniki/rfcs#0000](https://github.com/szpontniki/rfcs/pull/0000)")
+feature: "(unique ident, e.g.: my_awesome_feature)"
+start-date: "(today's date in YYYY-MM-DD format, e.g.: 2026-10-14)"
+author: "(name of the main author)"
+co-authors: "(name(s) of supporting authors, can be N/A)"
+related-prs: "(self-referencing link to the PR, e.g.: '[szpontniki/rfcs#0000](https://github.com/szpontniki/rfcs/pull/0000)')"
 ---
 
 ## Summary
