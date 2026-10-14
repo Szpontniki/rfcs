@@ -36,12 +36,12 @@ Are there any drawbacks that come with implementing this? Can be N/A.
 
 Anything that we're currently not sure about? Can be left as N/A.
 
-## Prior art
+## Prior Art
 [prior-art]: #prior-art
 
 Has something like this been implemented in other projects or incorporated into in-house discussions before? If so, link it here. Can be left as N/A if you don't think that's necessary given the context.
 
-## Future possibilities
+## Future Possibilities
 [future-possibilities]: #future-possibilities
 
 This is a place to dump your ideas *related* to this change, which may possibly be implemented in the future. Can be left as N/A.

@@ -36,7 +36,7 @@ There is a possibility that we'll run into a feeling of increased bureaucracy, b
 
 N/A
 
-## Prior art
+## Prior Art
 [prior-art]: #prior-art
 
 As mentioned, many other open source projects also follow the RFC process. That said though we won't enforce it strictly, as it will be more of a whiteboard for storing breaking changes.
@@ -47,7 +47,7 @@ This could be loosely linked to repos such as:
 - [electron/rfcs](https://github.com/electron/rfcs),
 - etc.
 
-## Future possibilities
+## Future Possibilities
 [future-possibilities]: #future-possibilities
 
 Later on I'll have to update this repo's `README.md` to include a quick guide on creating new RFCs. I'll also create GitHub issue labels such as `meta` or `rfc`.
