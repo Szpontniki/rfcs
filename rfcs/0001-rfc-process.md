@@ -3,10 +3,8 @@ feature: rfc_process
 start-date: 2026-10-14
 author: Khenzii <khenzii@khenzii.dev>
 co-authors: N/A
-related-prs: "[#1](pr1)"
+related-prs: "[#1](https://github.com/szpontniki/rfcs/pull/1)"
 ---
-
-[pr1]: https://github.com/szpontniki/rfcs/pull/1
 
 ## Summary
 [summary]: #summary
